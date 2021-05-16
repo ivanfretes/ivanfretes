@@ -1,5 +1,11 @@
 ### Hi there, i am Iván Fretes 👋
 
+Passionate about learning, reading, drawing and programming.
+
+I have the opportunity to work on projects for various areas (Hotels, Travel Agencies, Universities, Real Estate, etc). I also have experience as a freelance and external consultant.
+
+I am fond of entrepreneurships (startups), social projects, marketing research, Data Science and Machine Learning.
+
 <!--
 **ivanfretes/ivanfretes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
